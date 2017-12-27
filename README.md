@@ -4,7 +4,7 @@ This project is used to crawl realtime weather data of certain point every fixed
 
 ### Data source  
 **realtime data:** 彩云天气api  
-**history data:*** 天气911  
+**history data:** 天气911  
 
 ### Environment  
 **System:** windows 10  

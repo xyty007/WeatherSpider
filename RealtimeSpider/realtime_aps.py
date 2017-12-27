@@ -80,7 +80,7 @@ def update_weather():
 
 
 if __name__ == '__main__':
-    result_file_path = 'data.csv'
+    result_file_path = 'real_time_weather.csv'
     config_file_path = 'config.json'
 
     init_result_file(result_file_path)
